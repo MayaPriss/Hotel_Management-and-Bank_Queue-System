@@ -1,2 +1,2 @@
-# Hotel_Management
-Hotel management system by Python
+# Hotel_Management and Bank_Queue System
+Hotel Management System and Bank Queue System by Python
